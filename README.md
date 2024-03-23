@@ -13,10 +13,10 @@ If the written text doesn't match the announced word, the code displays the dete
 5. If the image exists it specifies the existence of the word but if the word doesn't exist then the suggests the correct word.
 6.  Through these techniques, the writing disability among the students can be combatted and the children can be provided with the right resources at the right time.
 # Python Libraries used:
-easyocr
-pyttsx3
-OpenCV
-Matplotlib
-numpy
-nltk
-Spellchecker
+1. easyocr
+2. pyttsx3
+3. OpenCV
+4. Matplotlib
+5. numpy
+6. nltk
+7. Spellchecker
